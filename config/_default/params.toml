@@ -1,42 +1,42 @@
 # Meta Data for SEO
 
 ## Homepage
-title = "Doks"
+title = "Kingdom Learning"
 titleSeparator = "-"
-titleAddition = "Modern Documentation Theme"
-description = "Doks is a Hugo theme for building secure, fast, and SEO-ready documentation websites, which you can easily update and customize."
+titleAddition = "The Book of Acts Is Still Being Written"
+description = "Whether you're a student on a campus, working from home, or on the move - God wants to use you."
 
 ## Documentation
 # docsVersion = "0.3"
 
 ## Open Graph
-images = ["doks.png"]
+images = ["logo.png"]
 ogLocale = "en_US"
-domainTLD = "doks.netlify.app"
+domainTLD = "doks-site-74466.web.app"
 titleHome = "Doks Theme"
 
 ## Twitter Cards
-twitterSite = "@getdoks"
-twitterCreator = "@henkverlinde"
+twitterSite = "@_roblesh"
+twitterCreator = "@_roblesh"
 
 ## JSON-LD
 # schemaType = "Person"
 schemaType = "Organization"
-schemaName = "Doks"
-schemaAuthor = "Henk Verlinde"
-schemaAuthorTwitter = "https://twitter.com/henkverlinde"
-schemaAuthorLinkedIn = "https://www.linkedin.com/in/henkverlinde/"
-schemaAuthorGitHub = "https://github.com/h-enk"
+schemaName = "Kingdom Learning"
+schemaAuthor = "Hector Robles"
+schemaAuthorTwitter = "https://twitter.com/_roblesh"
+schemaAuthorLinkedIn = "https://www.linkedin.com/in/roblesh/"
+schemaAuthorGitHub = "https://github.com/roblesh"
 schemaLocale = "en-US"
-schemaLogo = "logo-doks.png"
+schemaLogo = "logo.png"
 schemaLogoWidth = 512
 schemaLogoHeight = 512
 schemaImage = "doks.png"
 schemaImageWidth = 1280
 schemaImageHeight = 640
-schemaTwitter = "https://twitter.com/getdoks"
+schemaTwitter = "https://twitter.com/_roblesh"
 schemaLinkedIn = ""
-schemaGitHub = "https://github.com/h-enk/doks"
+schemaGitHub = "https://github.com/roblesh/doks-site"
 schemaSection = "blog"
 
 ## Sitelinks Search Box
@@ -65,10 +65,10 @@ defaultImage = "default-image.png" # put in `./assets/images/`
 fillImage = "1270x740 Center" # normalize image size
 
 # Footer
-footer = "Powered by <a class=\"text-muted\" href=\"https://www.netlify.com/\">Netlify</a>, <a class=\"text-muted\" href=\"https://gohugo.io/\">Hugo</a>, and <a class=\"text-muted\" href=\"https://getdoks.org/\">Doks</a>"
+footer = "Powered by <a class=\"text-muted\" href=\"https://gohugo.io/\">Hugo</a>, and <a class=\"text-muted\" href=\"https://getdoks.org/\">Doks</a>"
 
 # Feed
-copyRight = "Copyright (c) 2020-2021 Henk Verlinde"
+copyRight = "Copyright (c) 2022 Aptitude"
 
 # Alert
 alert = false
@@ -80,8 +80,8 @@ alertText = "Introducing the Doks child theme, several DX + UX updates, and more
 # repoHost [Github | Gitea | GitLab | Bitbucket | BitbucketServer ] is used for building the edit link based on git hoster
 repoHost = "GitHub"
 #repoHost = "Gitea"
-docsRepo = "https://github.com/h-enk/doks"
-docsRepoBranch = "master"
+docsRepo = "https://github.com/roblesh/doks-site"
+docsRepoBranch = "main"
 docsRepoSubPath = ""
 editPage = false
 lastMod = false
