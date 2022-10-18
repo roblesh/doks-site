@@ -1,10 +1,10 @@
 # Meta Data for SEO
 
 ## Homepage
-title = "Kingdom Learning"
+title = "Advance"
 titleSeparator = "-"
-titleAddition = "The Book of Acts Is Still Being Written"
-description = "Whether you're a student on a campus, working from home, or on the move - God wants to use you."
+titleAddition = "A Learning Platform To Advance God's Kingdom In Your World"
+description = "Whether you're a student on a campus, working from home, or on the move - God wants to continue the Book of Acts through your life."
 
 ## Documentation
 # docsVersion = "0.3"
@@ -13,7 +13,7 @@ description = "Whether you're a student on a campus, working from home, or on th
 images = ["logo.png"]
 ogLocale = "en_US"
 domainTLD = "doks-site-74466.web.app"
-titleHome = "Doks Theme"
+titleHome = "Advance"
 
 ## Twitter Cards
 twitterSite = "@_roblesh"
