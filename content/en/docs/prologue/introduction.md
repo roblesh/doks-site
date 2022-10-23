@@ -1,9 +1,9 @@
 ---
 title: "Introduction"
-description: "Doks is a Hugo theme for building secure, fast, and SEO-ready documentation websites, which you can easily update and customize."
-lead: "Doks is a Hugo theme for building secure, fast, and SEO-ready documentation websites, which you can easily update and customize."
-date: 2020-10-06T08:48:57+00:00
-lastmod: 2020-10-06T08:48:57+00:00
+description: "Thank you for taking the time to get to know us. We are here to serve you!"
+lead: "Thank you for taking the time to get to know us. We are here to serve you!"
+date: 2020-10-22T08:48:57+00:00
+lastmod: 2020-10-22T08:48:57+00:00
 draft: false
 images: []
 menu:
@@ -13,21 +13,26 @@ weight: 100
 toc: true
 ---
 
-## Get started
+## Why does Advance exist?
 
-There are two main ways to get started with Doks:
+Because you do - and Jesus died to get your attention and to have a meaningful relationship with you. We desire that the whole world would know Him and make Him known, in all things.
 
-### Tutorial
+## How does Advance do that?
 
-{{< alert icon="👉" text="The Tutorial is intended for novice to intermediate users." />}}
+Advance creates content to establish, educate, equip, and empower people to know what the Bible REALLY says about being a disciple of Jesus.
 
-Step-by-step instructions on how to start a new Doks project. [Tutorial →](https://getdoks.org/tutorial/introduction/)
+{{< alert icon="👉🏽" text="Don't know who Jesus is? Take 60 seconds to find out here!" />}}
 
-### Quick Start
+<!-- Step-by-step instructions on how to start a new Doks project. [Tutorial →](https://getdoks.org/tutorial/introduction/) -->
 
-{{< alert icon="👉" text="The Quick Start is intended for intermediate to advanced users." />}}
+## What content does Advance create?
 
-One page summary of how to start a new Doks project. [Quick Start →]({{< relref "quick-start" >}})
+- Articles
+- Videos
+- Workshops
+- Bible Studies
+
+All to help you know what the Bible is all about.
 
 ## Go further
 
