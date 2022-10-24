@@ -19,24 +19,29 @@ weight = 17
   weight = 20
 
 [[main]]
-  name = "Get Started"
+  name = "About Us"
+  url = "/about/prologue/introduction/"
   weight = 30
-  identifier = "get-started"
-  url = "/know/prologue/introduction/"
 
-[[main]]
-  name = "Quick Start"
-  weight = 40
-  identifier = "quick-start"
-  url = "/know/prologue/quick-start/"
-  parent = "get-started"
+#[[main]]
+#  name = "Get Started"
+#  weight = 30
+#  identifier = "get-started"
+#  url = "/know/prologue/introduction/"
 
-[[main]]
-  name = "Tutorial"
-  weight = 50
-  identifier = "tutorial"
-  url = "https://getdoks.org/tutorial/introduction/"
-  parent = "get-started"
+#[[main]]
+#  name = "Quick Start"
+#  weight = 40
+#  identifier = "quick-start"
+#  url = "/know/prologue/quick-start/"
+#  parent = "get-started"
+
+#[[main]]
+#  name = "Tutorial"
+#  weight = 50
+#  identifier = "tutorial"
+#  url = "https://getdoks.org/tutorial/introduction/"
+#  parent = "get-started"
 
 [[social]]
   name = "GitHub"
