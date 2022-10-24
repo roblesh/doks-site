@@ -7,7 +7,7 @@ lastmod: 2022-01-18T20:00:32+01:00
 draft: false
 images: []
 menu:
-  docs:
+  learn:
     parent: "lorem"
     identifier: "ipsum"
 weight: 999
