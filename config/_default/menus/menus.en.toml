@@ -1,30 +1,34 @@
 [[main]]
-  name = "Learn"
-  url = "/learn/prologue/introduction/"
-# url = "/learn/1.0/prologue/introduction/"
+  name = "Know"
+  url = "/know/prologue/introduction/"
   weight = 10
 
-# [[main]]
-#   name = "Tutorial"
-#   url = "/tutorial/lorem/ipsum/"
-#   weight = 15
+[[main]]
+  name = "Understand"
+  url = "/understand/prologue/introduction/"
+  weight = 14
 
 [[main]]
-  name = "Blog"
-  url = "/blog/"
+name = "Expand"
+url = "/expand/prologue/introduction/"
+weight = 17
+
+[[main]]
+  name = "Testify"
+  url = "/testify/"
   weight = 20
 
 [[main]]
   name = "Get Started"
   weight = 30
   identifier = "get-started"
-  url = "/learn/prologue/introduction/"
+  url = "/know/prologue/introduction/"
 
 [[main]]
   name = "Quick Start"
   weight = 40
   identifier = "quick-start"
-  url = "/learn/prologue/quick-start/"
+  url = "/know/prologue/quick-start/"
   parent = "get-started"
 
 [[main]]
