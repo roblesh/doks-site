@@ -1,5 +1,5 @@
 ---
-title: "Introduction"
+title: "Who Is He?"
 description: "Thank you for taking the time to get to know us. We are here to serve you!"
 lead: "Thank you for taking the time to get to know us. We are here to serve you!"
 date: 2020-10-22T08:48:57+00:00
@@ -7,8 +7,8 @@ lastmod: 2020-10-22T08:48:57+00:00
 draft: false
 images: []
 menu:
-  expand:
-    parent: "prologue"
+  know:
+    parent: "bible"
 weight: 100
 toc: true
 ---
@@ -57,4 +57,3 @@ See what others have build with Doks. [Showcase →](https://getdoks.org/showcas
 ## Contributing
 
 Find out how to contribute to Doks. [Contributing →](https://getdoks.org/docs/contributing/how-to-contribute/)
-

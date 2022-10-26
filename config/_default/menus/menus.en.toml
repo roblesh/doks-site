@@ -9,9 +9,9 @@
   weight = 14
 
 [[main]]
-name = "Expand"
-url = "/expand/prologue/introduction/"
-weight = 17
+  name = "Expand"
+  url = "/expand/prologue/introduction/"
+  weight = 17
 
 [[main]]
   name = "Testify"
@@ -20,7 +20,7 @@ weight = 17
 
 [[main]]
   name = "About Us"
-  url = "/about/prologue/introduction/"
+  url = "/about/background/introduction/"
   weight = 30
 
 #[[main]]
