@@ -8,7 +8,7 @@ draft: false
 images: []
 menu:
   know:
-    parent: "bible"
+    parent: "background"
 weight: 130
 toc: true
 ---
