@@ -25,7 +25,7 @@
   package = "netlify-plugin-submit-sitemap"
 
 	[plugins.inputs]
-    baseUrl = "biblearn.org"
+    baseUrl = "/"
     sitemapPath = "/sitemap.xml"
     ignorePeriod = 0
     providers = [
