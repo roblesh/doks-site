@@ -1,5 +1,5 @@
 ---
-title: "What Is It?"
+title: "66 Books"
 description: "Thank you for taking the time to get to know us. We are here to serve you!"
 lead: "What we call the Bible is a collection of 66 books recorded by many writers with one author who tells the story of how God is on a mission to save humanity from itself."
 date: 2020-10-22T08:48:57+00:00
@@ -9,23 +9,11 @@ images: []
 menu:
   know:
     parent: "bible"
-weight: 100
+weight: 110
 toc: true
 ---
 
-## God's Word To Humanity
-
-God Himself authored the Bible and chose many individuals spanning generations, whom were willing to hear His voice and communicate His message to us.
-
 ## 66 Books
-
-text
-
-## Types of Books
-
-text
-
-## Chronology of Books
 
 text
 
