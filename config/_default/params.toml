@@ -1,7 +1,7 @@
 # Meta Data for SEO
 
 ## Homepage
-title = "Advance"
+title = "Biblearn"
 titleSeparator = "-"
 titleAddition = "A Learning Platform For God's Kingdom"
 description = "Whether you're a student on a campus, working from home, or on the move - God wants to continue the Book of Acts through your life."
@@ -12,8 +12,8 @@ description = "Whether you're a student on a campus, working from home, or on th
 ## Open Graph
 images = ["logo.png"]
 ogLocale = "en_US"
-domainTLD = "doks-site-74466.web.app"
-titleHome = "Advance"
+domainTLD = "biblearn.org"
+titleHome = "Biblearn"
 
 ## Twitter Cards
 twitterSite = "@_roblesh"

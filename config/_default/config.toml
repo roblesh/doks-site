@@ -1,4 +1,4 @@
-baseurl = "https://doks-site-74466.web.app/"
+baseurl = "biblearn.org"
 canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true
