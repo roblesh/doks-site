@@ -33,4 +33,3 @@ Biblearn creates content to establish, educate, equip, and empower people to kno
 - Bible Studies
 
 All to help you know what the Bible is all about.
-
