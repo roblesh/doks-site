@@ -15,4 +15,4 @@ toc: true
 
 ## For More On The Founder
 
-Learn more about our founder, Hector Robles, here → [Founder's Page](hector.biblearn.org)
+Learn more about our founder, Hector Robles, here → [Founder's Page](https://hector.biblearn.org)
